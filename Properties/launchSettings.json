@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ValidadorCPF_AZ204": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7179",
+      "launchBrowser": false
+    }
+  }
+}
