@@ -18,9 +18,9 @@ https://validadorcpf-az20420250110114458.azurewebsites.net/api/validate-cpf/{cpf
 <b>OBS: Permanece nesse endpoint por tempo limitado, pois a conta Azure que mantém a instância é uma conta Trial</b>
 
 ## ⏳ Fluxo da Função:
-Entrada: A função recebe o CPF como parte do caminho da URL.
-Validação: Um algoritmo verifica a validade do CPF com base nos dígitos verificadores.
-Resposta: Retorna um JSON indicando se o CPF é válido ou não, com os seguintes formatos:
+- Entrada: A função recebe o CPF como parte do caminho da URL.
+- Validação: Um algoritmo verifica a validade do CPF com base nos dígitos verificadores.
+- Resposta: Retorna um JSON indicando se o CPF é válido ou não, com os seguintes formatos:
 ```
 {
     "message": "O CPF 11122233356 é inválido.",
