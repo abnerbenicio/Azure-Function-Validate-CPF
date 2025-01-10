@@ -48,17 +48,17 @@ Com foco no desenvolvimento de código, você pode prototipar e entregar soluç�
 
 ## 🚀 Como Executar Localmente:
 1. Pré-requisitos
-  - .NET 8 SDK instalado.
-  - Azure CLI configurado para sua conta.
-  - Visual Studio 22.
-  - Dependências Instaladas via NuGet:
-  ```
-  using System.Net;
-  using System.Text.Json;
-  using Microsoft.Azure.Functions.Worker;
-  using Microsoft.Azure.Functions.Worker.Http;
-  using Microsoft.Extensions.Logging;
-  ```
+   - .NET 8 SDK instalado.
+   - Azure CLI configurado para sua conta.
+   - Visual Studio 22.
+   - Dependências Instaladas via NuGet:
+     ```
+     using System.Net;
+     using System.Text.Json;
+     using Microsoft.Azure.Functions.Worker;
+     using Microsoft.Azure.Functions.Worker.Http;
+     using Microsoft.Extensions.Logging;
+     ```
 
 2. Buildar a Azure Function
    - Executar o comando:
