@@ -1,4 +1,4 @@
-﻿## :diamond_shape_with_a_dot_inside: Azure Function - Validador de CPF
+<h1 align=center>﻿## :diamond_shape_with_a_dot_inside: Azure Function - Validador de CPF</h1>
 
  ## 📝Descrição
 Este repositório contém um exemplo de implementação de uma Azure Function desenvolvida para validar números de CPF. A aplicação segue o paradigma de computação serverless, oferecendo alta escalabilidade, baixo custo e simplicidade no desenvolvimento.
