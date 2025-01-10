@@ -83,7 +83,7 @@ Com foco no desenvolvimento de código, você pode prototipar e entregar soluç�
   <tr>
     <td align="center">
       <a href="https://github.com/AbnerBenicio">
-        <img src="https://media.licdn.com/dms/image/D4D03AQEiFXDPPtHBgw/profile-displayphoto-shrink_800_800/0/1662566793828?e=1720051200&v=beta&t=TMcxwTB3utOnzfG5VsQPu0wkIah_CpHNdDjPo0_Ss9Y" width="100px;" alt="Foto de Abner Benicio"/><br>
+        <img src="https://avatars.githubusercontent.com/u/112874576?v=4" width="100px;" alt="Foto de Abner Benicio"/><br>
         <sub>
           <b>Abner Benicio</b><br>
           <b>abnerbeniciosilva123@gmail.com</b>
